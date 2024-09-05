@@ -4,8 +4,8 @@
   <img alt="Juan Jose's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&color=%230A66C2
   " />&nbsp;&nbsp;
 </a>
-<a href="https://www.instagram.com/andresjara98/">
-  <img alt="Andrés's Instagram" width="100px" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=next.js
+<a href="https://j-hernandezm.vercel.app">
+  <img alt="Juan Jose's Portfolio" width="100px" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=next.js
   " />
 </a>
 
