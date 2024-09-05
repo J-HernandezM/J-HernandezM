@@ -1,15 +1,12 @@
-<h2 title="presentation"> Hey 👋, I'm Juan José Hernández. Welcome to my GitHub! 🚀 </h2>
+<h1 title="presentation"> Hey 👋, I'm Juan José Hernández. Welcome to my GitHub! 🚀 </h2>
 
-<div>
-<a href="https://www.linkedin.com/in/juan-jose-hernandez-muñoz-9613821a2/">
-  <img alt="Juan Jose's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&color=%230A66C2
-  " />
+
+<a style="text-decoration: none;" href="https://www.linkedin.com/in/juan-jose-hernandez-muñoz-9613821a2/">
+  <img alt="Juan Jose's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&color=%230A66C2" />
 </a>
-<a href="https://j-hernandezm.vercel.app">
-  <img alt="Juan Jose's Portfolio" width="100px" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=next.js
-  " />
+<a style="text-decoration: none;" href="https://j-hernandezm.vercel.app">
+  <img alt="Juan Jose's Portfolio" width="100px" src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=next.js"/>
 </a>
-</div>
 
 <br />
 <br />
