@@ -44,7 +44,7 @@
 </div>
 
 <div style="text-align: center; padding: 20px; border-radius: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=j-hernandezm&show_icons=true&hide_border=true&count_private=true&theme=highcontrast&bg_color=00000000" alt="Andrés's GitHub Stats" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=j-hernandezm&show_icons=true&hide_border=true&count_private=true&theme=highcontrast&bg_color=00000000" alt="Juan Jose's GitHub Stats" style="margin-bottom: 20px;" />
     <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=j-hernandezm&count_private=true&theme=highcontrast" alt="Andrés Jaramillo" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=j-hernandezm&count_private=true&theme=highcontrast" alt="Juan Jose's Github Stats" />
 </div>
